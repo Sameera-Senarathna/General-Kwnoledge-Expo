@@ -8,15 +8,15 @@ const CATEGORY = [
         ''
     ),
     new Category(
-        1,
+        2,
         'Technology',
         'Question Related to Technology ',
         ''
     ),
     new Category(
-        1,
-        'History',
-        'Questions Related to Sri Lankan History',
+        3,
+        'Agriculture',
+        'Questions Related to Sri Lankan Agriculture',
         ''
     ),
 ];
